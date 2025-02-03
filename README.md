@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adarsh0248
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DSA in JAVA
-- 🌱 I’m currently learning 3D modelling in Blender
 - 📫 How to reach me
 -  mail- adarsh024816@gmail.com
 -  linkedin - https://www.linkedin.com/in/adarsh-kumar-14b110291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
