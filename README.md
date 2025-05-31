@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adarsh0248
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Java Development
 - 🌱 I’m currently learning DSA in JAVA
 - 📫 How to reach me
 -  mail- adarsh024816@gmail.com
